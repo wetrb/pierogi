@@ -6,6 +6,7 @@
     * enables test-framework integration
     * enables instrumentation
     * internal code as pubsub consumers
+    * listening to event and handler registrations
 
 * external pubsub via outbox mechanism
 
